@@ -24,10 +24,10 @@ class BookingSerializer(serializers.ModelSerializer):
         fields = '__all__'
         read_only_fields = ['id', 'guest', 'created_at', 'updated_at']
 
-class ReviewSerializer(serializers.ModelSerializer):
+""" class ReviewSerializer(serializers.ModelSerializer):
     reviewer = UserSerializer(read_only=True)
 
     class Meta:
         model = Review
         fields = '__all__'
-        read_only_fields = ['id', 'reviewer', 'created_at', 'updated_at']
+        read_only_fields = ['id', 'reviewer', 'created_at', 'updated_at'] """
