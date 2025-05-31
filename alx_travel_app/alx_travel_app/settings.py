@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework', # Rest API framework
+    'corsheaders',  # For handling CORS
+    'drf_yasg',     # For swagger documentation
+    'listings',     # Your app for listings
 ]
 
 MIDDLEWARE = [
