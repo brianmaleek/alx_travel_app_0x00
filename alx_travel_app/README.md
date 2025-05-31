@@ -32,10 +32,10 @@ As a professional developer, this task will enable you to:
 
 To successfully complete this milestone, ensure you meet the following prerequisites:
 
-  - Familiarity with Django and Django REST Framework.
-  - Knowledge of MySQL and database management.
-  - Understanding of version control using Git.
-  - A basic grasp of environment variable management using django-environ.
+- Familiarity with Django and Django REST Framework.
+- Knowledge of MySQL and database management.
+- Understanding of version control using Git.
+- A basic grasp of environment variable management using django-environ.
 
 ## Key Highlights
 
