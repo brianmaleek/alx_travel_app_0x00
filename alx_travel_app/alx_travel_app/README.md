@@ -14,7 +14,7 @@ Define the database models, create serializers for API data representation, and 
 
 - **Duplicate Project:**
 
-  - Duplicate the project `alx_travel_ap`p to `alx_travel_app_0x00`
+  - Duplicate the project `alx_travel_app` to `alx_travel_app_0x00`
 
 - **Create Models:**
 
